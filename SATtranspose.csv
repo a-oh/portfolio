@@ -1,0 +1,20 @@
+Feature,Type,Dataset,Description
+state,object,SAT-HigherEd,State in the US and District of Columbia 
+2017_participation_rate,float64,SAT-HigherEd,The percent SAT participation rate among high school seniors in 2017 (units percent to decimals 0.38 means 38%)
+2017_ebrw,Int64,SAT-HigherEd,The average score of the Evidence-Based Reading and Writing section in 2017 (out of 800)
+2017_math,Int64,SAT-HigherEd,The average score of the Mathematics section in 2017 (out of 800)
+2017_total,Int64,SAT-HigherEd,The average of the total SAT score in 2017 (out of 1600)
+2018_participation_rate,float64,SAT-HigherEd,The percent SAT participation rate among high school seniors in 2018 (units percent to decimals 0.38 means 38%)
+2018_ebrw,Int64,SAT-HigherEd,The average score of the Evidence-Based Reading and Writing section in 2018 (out of 800)
+2018_math,Int64,SAT-HigherEd,The average score of the Mathematics section in 20178(out of 800)
+2018_total,Int64,SAT-HigherEd,The average of the total SAT score in 2018 (out of 1600)
+2019_participation_rate,float64,SAT-HigherEd,The percent SAT participation rate among high school seniors in 2019 (units percent to decimals 0.38 means 38%)
+2019_ebrw,Int64,SAT-HigherEd,The average score of the Evidence-Based Reading and Writing section in 2019 (out of 800)
+2019_math,Int64,SAT-HigherEd,The average score of the Mathematics section in 2019 (out of 800)
+2019_total,Int64,SAT-HigherEd,The average of the total SAT score in 2019 (out of 1600)
+2013-2017_hs_graduate,float64,SAT-HigherEd,The percentage of the total population who are high school graduates (units percent to decimals 0.38 means 38%)
+high_school_rank,float64,SAT-HigherEd,"The rank among the states with highest to the lowest percentages with a high school degree (among 56 states, federal district, and territories)"
+2013_2017_bachelors_graduate,float64,SAT-HigherEd,The percentage of the total population with Bachelor’s degree or higher (units percent to decimals 0.38 means 38%)
+bachelor's_rank,float64,SAT-HigherEd,"The rank among the states with highest to the lowest percentages with a Bachelor’s degree (among 56 states, federal district, and territories)"
+2013-2017_advanced_degree_graduate,float64,SAT-HigherEd,The percentage of the total population with an advanced degree (units percent to decimals 0.38 means 38%)
+advanced_rank,float64,SAT-HigherEd,"The rank among the states with highest to the lowest percentages with an advanced degree (among 56 states, federal district, and territories)"
