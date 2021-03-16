@@ -16,8 +16,7 @@ I am a data scientist with a passion for translating my scientific mind into act
 
 **Projects** 
 
-Linear regression modeling - standardized testing scores in the United States 
-- using the linear regression model, I studied which factors correlate highest to the state’s average SAT score. 
+[Linear regression modeling - standardized testing scores in the United States](https://github.com/a-oh/project1-standardizedtesting)- using the linear regression model, I studied which factors correlate highest to the state’s average SAT score. 
  
 Housing price prediction using feature engineering and linear/logistic regression models
 - predict housing prices in Ames, IA using historical datasets with the R2 score of 0.942
