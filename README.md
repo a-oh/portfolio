@@ -25,7 +25,7 @@ Projects
 [COVID-19 outbreak forecasting](https://github.com/a-oh/covidforecast/)
 - comparison of various time series models (ARIMA, SARIMAX) and recurrent neural network (LSTM) model to forecast infection rates in California's counties to optimize vaccine distribution plan.
 
-Automated job search using web scraping and skill matching
+[Automated job search using web scraping and skill matching](https://github.com/a-oh/dreamjobmatch)
 - A model automatically scans new jobs and prioritizes the list by matching the job description to your skillset.
 
 How to reach me: email: alyssiao@gmail.com
